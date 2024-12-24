@@ -377,7 +377,7 @@ def main():
     while True:
         print("Dolphys Calculator")
         print("Made By Aditya Bhide")
-        print("Version 2.4")
+        print("Version 5")
         print("-----------------------------")
         print("Calculator Menu:")
         print("1. Function Calculator")
