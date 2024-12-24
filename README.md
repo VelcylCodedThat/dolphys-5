@@ -37,8 +37,3 @@ install
 run git clone https://github.com/VelcylCodedThat/dolphys-5.git
 voila
 
-
-disclaimer:
-----
-
- currency tables may be inaccurate. please use at your own risk. (ill update it soon)
