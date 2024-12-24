@@ -32,7 +32,10 @@ license
 ---
 licensed under GNU General Public License v3.0
 
-
+install
+---
+run git clone https://github.com/VelcylCodedThat/dolphys-5.git
+voila
 
 
 disclaimer:
