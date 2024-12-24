@@ -15,8 +15,6 @@ calculates square root, exponentiation, logarithm, and trigonometric functions
 - calculus which performs numerical differentiation and integration
 solves optimization problems and motion problems
 
-- money conversion which converts between various currencies
-
 - plot generator which generates dotplots, boxplots, and histograms
 
 
