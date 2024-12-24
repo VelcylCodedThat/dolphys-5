@@ -1,6 +1,6 @@
 # !ATTENTION! THE CURRENCY TABLES WERE REMOVED DUE TO THEM BEING UNFIXABLE. GO TO 2.4 FOR THE ORIGINAL VERSION
 
-# dolphys: the last calculator you'll ever need
+# dolphys5: the last calculator you'll ever need
 
 *"this made me smarter"* -idk
 
